@@ -1,0 +1,23 @@
+{
+    "women": {
+        "top": {
+            "short_graphic_tee": [
+                52783011,
+                52833011
+            ],
+            "long_graphic_tee": [
+                54677011,
+                54678011
+            ]
+        },
+        "shirts": {
+            "businessShirt": [
+                52419011
+            ],
+            "chiffon": [
+                53513014,
+                52254011
+            ]
+        }
+    }
+}

@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@1&family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+label{
+    margin-bottom: 0px !important;
+}
+#top{
+    background-color: #463920;
+    height: 44px;
+    width:100%;
+}
+.kind, label{
+    font-family: Helvetica, Arial, sans-serif;
+}
+#title{
+    color:#463920;
+    font-family: 'PT Serif', serif;
+}
+body{
+    background-color: rgb(225, 201, 169);
+}
+.row{
+    margin:0px !important;
+    width:100%
+}
+#content{
+    padding:0px 30px 30px 30px;
+    text-align: center;
+}
+#form{
+    padding:5px;
+    /* border: 1px rgb(92, 69, 39) solid;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem; */
+}
+.container{
+    padding:0px !important;
+    margin: 0px !important;
+}
+#inputDiv{
+    /* height:100px;
+    border: black 0.5px solid;
+    font-size:large; */
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#logo{
+    margin-top:60px;
+    height:80px;
+    width:auto;
+}

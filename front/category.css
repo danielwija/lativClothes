@@ -1,0 +1,75 @@
+body {
+    padding: 10px
+}
+
+/* Header style*/
+#title {
+    color: #463920;
+    font-family: 'PT Serif', serif;
+}
+/* middle category bar */
+.categoryName {
+    font-size: 18px;
+    font-family: 'Roboto Mono', monospace;
+}
+.lessButtonMargin{
+    margin-bottom: 5px !important;
+}
+
+/* topRight widget */
+#shoppingCart, #signUp {
+    color:#4d3126;
+}
+.textUnderLine{
+    text-decoration: underline;
+}
+
+/* when viewing this category */
+.view{
+    background-color: #DCDCDC
+}
+
+/* dynamic style*/
+/* when the mouse is on this category text */
+.focus {
+    color: #463920;
+}
+.notFocus {
+    color: gray;
+}
+
+
+
+
+
+/* Left_classBar style */
+#left_classBar {
+    margin-top:20px;
+    text-align: left;
+}
+.kind {
+    font-family: Georgia, 'Times New Roman', Garamond, Sans-serif;
+}
+li {
+    list-style-type: circle;
+}
+
+
+
+
+
+/* Content syle */
+#content{
+    padding:35px;
+}
+.clothesImg {
+    width: 100%;
+    height: 100%; 
+    object-fit: contain;
+}
+.cloName, .price {
+    margin-top:-18px !important;
+}
+.itemBlock {
+    padding-bottom: 28px;
+}

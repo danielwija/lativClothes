@@ -1,0 +1,9 @@
+{
+    "groupImg": {
+        "women": "https://s3.lativ.com.tw/i/NewArrivalBanner/54169_1010X400_211008_TW.jpg",
+        "men": "https://s3.lativ.com.tw/i/NewArrivalBanner/54420_1010X400_211018_TW.jpg",
+        "kids": "https://s3.lativ.com.tw/i/NewArrivalBanner/54548_1010X400_210830_TW_0.jpg",
+        "baby": "https://s3.lativ.com.tw/i/NewArrivalBanner/54979_1010X400_211018_TW.jpg",
+        "sports": "https://s3.lativ.com.tw/i/NewArrivalBanner/54022_1010X400_211008_TW.jpg"
+    }
+}

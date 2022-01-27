@@ -1,0 +1,128 @@
+{
+    "52123011": {
+        "name": "快乾棉V領T恤",
+        "price": "149",
+        "class": {
+            "group": "women",
+            "category": "tops",
+            "type": "dry"
+        },
+        "stoke": [
+            {
+                "color": "white",
+                "clothesImg": "https://s.lativ.com.tw/i/52123/52123011/5212301_500.jpg",
+                "buttonImg": "https://s4.lativ.com.tw/i/52123/52123011/5212301_48.jpg",
+                "size": [
+                    "S",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            },
+            {
+                "color": "grqy",
+                "clothesImg": "https://s.lativ.com.tw/i/52123/52123021/5212302_500.jpg",
+                "buttonImg": "https://s3.lativ.com.tw/i/52123/52123021/5212302_48.jpg",
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "52419011": {
+        "name": "商務彈性長袖襯衫",
+        "price": "399",
+        "class": {
+            "group": "women",
+            "category": "shirts",
+            "type": "BusinessShirt"
+        },
+        "stoke": [
+            {
+                "color": "blue",
+                "clothesImg": "https://s.lativ.com.tw/i/52419/52419011/5241901_500.jpg",
+                "buttonImg": "https://s4.lativ.com.tw/i/52419/52419011/5241901_48.jpg",
+                "size": [
+                    "S",
+                    "M",
+                    "L"
+                ]
+            },
+            {
+                "color": "black",
+                "clothesImg": "https://s.lativ.com.tw/i/52419/52419031/5241903_500.jpg",
+                "buttonImg": "https://s3.lativ.com.tw/i/52419/52419031/5241903_48.jpg",
+                "size": [
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "52783011": {
+        "name": "可口可樂印花T恤-01",
+        "price": "168",
+        "class": {
+            "group": "women",
+            "category": "tops",
+            "type": "short_graphic_tee"
+        },
+        "stoke": [
+            {
+                "color": "white",
+                "clothesImg": "https://s.lativ.com.tw/i/52783/52783011/5278301_500.jpg",
+                "buttonImg": "https://s4.lativ.com.tw/i/52783/52783011/5278301_48.jpg",
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL"
+                ]
+            },
+            {
+                "color": "black",
+                "clothesImg": "https://s.lativ.com.tw/i/52783/52783031/5278303_500.jpg",
+                "buttonImg": "https://s3.lativ.com.tw/i/52783/52783031/5278303_48.jpg",
+                "size": [
+                    "M",
+                    "XL",
+                    "XXL"
+                ]
+            }
+        ]
+    },
+    "54931011": {
+        "name": "極暖羽絨背心",
+        "price": "1390",
+        "class": {
+            "group": "women",
+            "category": "outerwear",
+            "type": "warm_down"
+        },
+        "stoke": [
+            {
+                "color": "white",
+                "clothesImg": "https://s.lativ.com.tw/i/54931/54931011/5493101_500.jpg",
+                "buttonImg": "https://s4.lativ.com.tw/i/54931/54931011/5493101_48.jpg",
+                "size": [
+                    "S",
+                    "M",
+                    "L",
+                    "XL",
+                    "XXL"
+                ]
+            },
+            {
+                "color": "green",
+                "clothesImg": "https://s.lativ.com.tw/i/54931/54931021/5493102_500.jpg",
+                "buttonImg": "https://s3.lativ.com.tw/i/54931/54931021/5493102_48.jpg",
+                "size": []
+            }
+        ]
+    }
+}

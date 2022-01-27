@@ -1,0 +1,42 @@
+body{
+    padding-left: 40px;
+    padding-right:40px;
+}
+/* #companyLogo{
+    float:left;
+}
+*/
+#salePrice{
+    font-size: 60px;
+    line-height: 1;
+    color: #ea0000;
+    float:right;
+    margin:0;
+    padding:0;
+    display:block;
+}
+#originalPrice{
+    float:right;
+}
+#img{
+    margin-top:10px;
+    text-align:center;
+    margin-top:10px;
+}
+button{
+    margin-left: 2px;
+    margin-right:2px;
+}
+img{
+    margin-left: 2px;
+    margin-right:2px;
+}
+#sizeButton,#colorButton{
+    float:right;
+}
+.clothesImg,.inlineBlock{
+    display:inline-block;
+}
+.inlineBlock{
+    float:right;
+}
