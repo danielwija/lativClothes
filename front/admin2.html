@@ -22,25 +22,28 @@
         <h1>Admin - Upload Product</h1>
         <form id="form" style="text-align: center;">
             <div id="inputGroup">
-                <div class="inputDiv input-group mb-3" style="width: 25em">
-                    <span class="input-group-text" id="inputGroup-sizing-default">Product Name</span>
+                <div id="inputDiv_name" class="inputDiv input-group mb-3" style="width: 25em">
+                    <span class="input-group-text" id="inputGroup-sizing-default">Name</span>
                     <input id="input_name" type="text" class="form-control" aria-label="Sizing example input"
                         aria-describedby="inputGroup-sizing-default">
                 </div>
 
-                <div class="inputDiv input-group mb-3" style="width: 25em">
+                <div id="inputDiv_price" class="inputDiv input-group mb-3" style="width: 25em">
                     <span class="input-group-text" id="inputGroup-sizing-default">Price</span>
                     <input id="input_price" type="text" class="form-control" aria-label="Sizing example input"
                         aria-describedby="inputGroup-sizing-default">
                 </div>
 
-                <div class="inputDiv input-group mb-3" style="width: 25em">
-                    <span class="input-group-text" id="inputGroup-sizing-default">Original Price</span>
-                    <input id="input_originalPrice" type="text" class="form-control" aria-label="Sizing example input"
-                        aria-describedby="inputGroup-sizing-default">
+                <div>
+                    <div id="inputDiv_originalPrice" class="inputDiv input-group mb-3" style="width: 25em">
+                        <span class="input-group-text" id="inputGroup-sizing-default">Original Price</span>
+                        <input id="input_originalPrice" type="text" class="form-control"
+                            aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+                    </div>
+                    <p id="remindMessage">(can be empty)</p>
                 </div>
 
-                <div class="inputDiv input-group mb-3" style="width: 25em !important">
+                <div id="inputDiv_category" class="inputDiv input-group mb-3" style="width: 25em !important">
                     <label class="input-group-text" for="inputGroupSelect01">Category</label>
                     <select class="form-select" id="input_category">
                         <option selected>Choose...</option>
@@ -50,7 +53,7 @@
                     </select>
                 </div>
 
-                <div class="inputDiv input-group mb-3" style="width: 25em !important">
+                <div id="inputDiv_kind" class="inputDiv input-group mb-3" style="width: 25em !important">
                     <label class="input-group-text" for="inputGroupSelect01">Class</label>
                     <select class="form-select" id="input_class">
                         <option selected>Choose...</option>

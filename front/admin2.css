@@ -54,4 +54,12 @@ label{
     margin: 0 auto;
 }
 
+#inputDiv_originalPrice {
+    margin-bottom:0 !important;
+}
+#remindMessage{
+    font-size: xx-small;
+    margin-bottom: 5px;
+}
+
 
