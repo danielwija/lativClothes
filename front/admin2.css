@@ -57,7 +57,7 @@ label{
     margin: 0 auto;
 }
 
-#inputDiv_originalPrice {
+#inputDiv_discountPrice, #inputDiv_price {
     margin-bottom:0 !important;
 }
 #remindMessage{
