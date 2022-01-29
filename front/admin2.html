@@ -15,73 +15,37 @@
 
 <body>
     <div id="top">
-        <p
-            style="color:white; font-family: 'Montserrat', sans-serif; margin-left:150px; font-size:30px; margin-bottom: 0px;">
-            Admin
-            </h3>
+        <p id="title">lativ</p>
     </div>
     <div id="content">
-        <!-- <h1 id="title">Lativ Admin</h1> -->
-        <img id="logo" src="img/logo.png" alt="logo">
+        <!-- <img id="logo" src="img/logo.png" alt="logo"> -->
+        <h1>Admin - Upload Product</h1>
         <form id="form" style="text-align: center;">
-            <h3 class="kind">Basic</h3>
-            <div id="inputDiv">
-                <!-- <div class="" style="width:50px">
-                    <label class="form-label">ID</label>
-                    <input class="form-control form-control-sm">
-                </div> -->
-                <div style="width:200px">
-                    <label class="form-label">Name</label>
-                    <input class="form-control form-control-sm">
+            <div id="inputGroup">
+                <div id="inputDiv_name" class="inputDiv">
+                    <label class="form-label">Product Name</label>
+                    <input id="input_name" class="form-control form-control-sm" style="width: 18em">
                 </div>
 
-                <div class="">
+                <div id="inputDiv_price" class="inputDiv">
                     <label class="form-label">Price</label>
-                    <input class="form-control form-control-sm">
+                    <input id="input_price" class="form-control form-control-sm" style="width:3.75em">
                 </div>
-                <div class="">
+
+                <div id="inputDiv_originalPrice" class="inputDiv">
                     <label class="form-label">Original Price</label>
-                    <input class="form-control form-control-sm">
+                    <input id="input_originalPrice" class="form-control form-control-sm" style="width:3.7em">
+                    <span style="font-size:xx-small;color:#352a16">(can be empty)</span>
                 </div>
             </div>
-            <!-- <div class="container" style="width:1220px !important">
-                <div class="row">
-                    <div class="col-5"></div>
-                    <div class="col-4">
-                        <h3 class="kind">Basic</h3>
-                        <div class="mb-4">
-                            <label class="form-label">ID</label>
-                            <input class="form-control form-control-sm" id="exampleInputEmail1"
-                                >
-                        </div>
+    </div>
+    </form>
 
-                        <div class="">
-                            <label class="form-label">Name</label>
-                            <input class="form-control form-control-sm" id="exampleInputEmail1"
-                                >
-                        </div>
-
-                        <div class="">
-                            <label class="form-label">Price</label>
-                            <input class="form-control form-control-sm" id="exampleInputEmail1"
-                                >
-                        </div>
-                        <div class="">
-                            <label class="form-label">Original Price</label>
-                            <input class="form-control form-control-sm" id="exampleInputEmail1"
-                                >
-                        </div>
-                    </div>
-                    <div class="col-3"></div>
-                </div>
-            </div> -->
-        </form>
-
-        <form class="upload">
-            <input type="file" name="uploadFile" required />
-            <br /><br />
-            <input type="submit" />
-        </form>
+    <form class=" upload">
+        <input type="file" name="uploadFile" required />
+        <br /><br />
+        <input type="submit" />
+    </form>
     </div>
 
 
